@@ -1,0 +1,3 @@
+[submodule "my-first-static-web-app"]
+	path = my-first-static-web-app
+	url = https://github.com/gladmustang/my-first-static-web-app.git
